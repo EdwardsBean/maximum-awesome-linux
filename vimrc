@@ -10,7 +10,6 @@ set nocompatible
 " enable syntax highlighting
 syntax enable
 
-set autoindent
 set autoread                                                 " reload files when changed on disk, i.e. via `git checkout`
 set backspace=2                                              " Fix broken backspace in some setups
 set backupcopy=yes                                           " see :help crontab
